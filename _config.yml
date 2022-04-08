@@ -4,3 +4,5 @@ plugins:
 
 title: [Lhinger's site]
 description: [Just a site for testing stuff]
+
+theme: jekyll-theme-cayman
