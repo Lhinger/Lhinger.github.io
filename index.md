@@ -13,7 +13,7 @@
     
     
     
-    
+    If you have any questions, either ask me in person or on discord.
     
     
     
