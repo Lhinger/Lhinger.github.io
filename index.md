@@ -14,13 +14,10 @@
     
     
     If you have any questions, either ask me in person or on discord.
-    
-    
-    
-    
-    
-    
-    
+  
+      
+  
+  
   
 <!-- begin wwww.htmlcommentbox.com -->
  <div id="HCB_comment_box"><a href="http://www.htmlcommentbox.com">Widget</a> is loading comments...</div>
