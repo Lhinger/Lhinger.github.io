@@ -38,7 +38,7 @@
 #HCB_comment_box .hcb-wrapper-half{display:block;width:50%;float:left;}
 #HCB_comment_box .hcb-wrapper{clear:both;}
 #HCB_comment_box input.text{display:block;width:95%;}
-#HCB_comment_box input.submit{border-top:1px solid #FCB1A2;border-left:1px solid #FCB1A2;border-bottom:1px solid #BB2B0F;border-right:1px solid #BB2B0F;background-color:#F26646;color:#000;font-weight:bold;cursor:pointer;}
+#HCB_comment_box input.submit{border-top:1px solid #FCB1A2;border-left:1px solid #FCB1A2;border-bottom:1px solid #BB2B0F;border-right:1px solid #BB2B0F;background-color:#000000;color:#000;font-weight:bold;cursor:pointer;}
 #HCB_comment_box div.comment{color:#32CD32; background: rgba(0, 0, 0, 0.5); border:3px double #F26646 ; margin:5px; padding:2px;}
 #HCB_comment_box .comment .likes{color: #32CD32;}
 #HCB_comment_box .hcb-link{color:#32CD32;text-decoration:none;} 
