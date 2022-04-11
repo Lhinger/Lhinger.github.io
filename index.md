@@ -8,6 +8,8 @@
 
 [GBA emulator](https://lhinger.github.io/GBA-GAMES/)
 
+[Hextris](https://lhinger.github.io/hextris/)
+
 [free v-bucks](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
 
    
