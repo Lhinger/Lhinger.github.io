@@ -42,4 +42,7 @@
 #HCB_comment_box div.comment{color:#32CD32; background: rgba(0, 0, 0, 0.5); border:3px double #F26646 ; margin:5px; padding:2px;}
 #HCB_comment_box .comment .likes{color: #32CD32;}
 #HCB_comment_box .hcb-link{color:#32CD32;text-decoration:none;} 
-   </style>
+ #HCB_comment_box blockquote {
+    color:#32CD32;
+  }
+</style>
