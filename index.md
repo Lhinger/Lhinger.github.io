@@ -34,7 +34,7 @@
 <style>
 #HCB_comment_box{border: 2px solid #32CD32; border-radius: 5px; padding: 10px; color:#FFFFFF; background:#000000 ;}
 .hcb-mod b{color:#32CD32;}
-#HCB_comment_box textarea,#HCB_comment_box input.text{border-top:1px solid #32CD32;border-left:1px solid #32CD32;border-bottom:1px solid #32CD32;border-right:1px solid #32CD32;background-color:#f8f8f8;}
+#HCB_comment_box textarea,#HCB_comment_box input.text{border-top:1px solid #32CD32;border-left:1px solid #32CD32;border-bottom:1px solid #32CD32;border-right:1px solid #32CD32;background-color:#000000;}
 #HCB_comment_box .hcb-wrapper-half{display:block;width:50%;float:left;}
 #HCB_comment_box .hcb-wrapper{clear:both;}
 #HCB_comment_box input.text{display:block;width:95%;}
