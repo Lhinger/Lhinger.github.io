@@ -6,6 +6,8 @@
 
 [Who am i?](https://lhinger.github.io/Whomst/)
 
+[N64 Emulator](https://lhinger.github.io/mupen64plus-ui-console/)
+
 [GBA emulator](https://lhinger.github.io/GBA-GAMES/)
 
 [Hextris](https://lhinger.github.io/hextris/)
