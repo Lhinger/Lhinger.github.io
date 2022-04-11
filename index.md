@@ -58,10 +58,7 @@
   }
   
  
-  input#hcb_form_name {
-   border:#32CD32;
-    background-color:#000000;
-  }
+  input#hcb_form_name {border-top:1px solid #32CD32;border-left:1px solid #32CD32;border-bottom:1px solid #32CD32;border-right:1px solid #32CD32;background-color:#000000;}
  
     
 </style>
