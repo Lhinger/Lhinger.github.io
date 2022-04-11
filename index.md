@@ -1,6 +1,8 @@
 ## Lhinger's site
 
-# Yo, I'm lhinger, I'm an amateur hacker and coder. (Feel free to contact me on discord:Lhinger#8015) 
+# Yo, I'm lhinger, I'm an amateur hacker and coder. 
+
+### (Feel free to contact me on discord:Lhinger#8015) 
 
 [Who am i?](https://lhinger.github.io/Whomst/)
 
