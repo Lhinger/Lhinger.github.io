@@ -59,6 +59,7 @@
   
  
   input#hcb_form_name {
+   border:#32CD32;
     background-color:#000000;
   }
  
