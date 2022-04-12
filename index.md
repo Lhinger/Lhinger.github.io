@@ -4,11 +4,11 @@
 
 ### (Feel free to contact me on discord:Lhinger#8015) 
 
-[Who am i?](https://lhinger.github.io/Whomst/)
+[About me](https://lhinger.github.io/Whomst/)
 
-[N64 Emulator](https://lhinger.github.io/mupen64plus-ui-console/)
+[Click here for N64 games](https://lhinger.github.io/mupen64plus-ui-console/)
 
-[GBA emulator](https://lhinger.github.io/GBA-GAMES/)
+[Click here for GBA games](https://lhinger.github.io/GBA-GAMES/)
 
 [Hextris](https://lhinger.github.io/hextris/)
 
