@@ -6,6 +6,8 @@
 
 [About me](https://lhinger.github.io/Whomst/)
 
+[Interstellar](https://lhinger.github.io/interstellar)
+
 [Click here for N64 games](https://lhinger.github.io/mupen64plus-ui-console/)
 
 [Click here for GBA games](https://lhinger.github.io/GBA-GAMES/)
